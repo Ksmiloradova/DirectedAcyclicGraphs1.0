@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"BoundBox"},{"p":"<Unnamed>","l":"Coord2D"},{"p":"<Unnamed>","l":"DAGConstraintException"},{"p":"<Unnamed>","l":"Origin"},{"p":"<Unnamed>","l":"Point"},{"p":"<Unnamed>","l":"Space"}];updateSearchResults();
